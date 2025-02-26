@@ -1,1 +1,4 @@
 echo 'hello, github' > hello.txt
+git status
+git add hello.txt
+git comit -m 'add hello.txt with a greeting'
